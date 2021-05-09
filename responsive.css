@@ -4,7 +4,7 @@
     
     }
 }
-@media (max-width: 400px){
+@media (max-width: 500px){
     .imagen{
         /*image:url('images/image-header-mobile.jpg');*/
         width: 330px;
